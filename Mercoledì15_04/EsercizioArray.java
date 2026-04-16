@@ -5,7 +5,6 @@ public class EsercizioArray {
     public static void main(String[] args) {
         //array riguardo ordine e pasticceria 
         String[] menu = {"Torta", "Muffin", "Ciambella"};
-        int[] prezzo = {5, 3, 2};
 
         String[] ordine = new String[3];
         int[] q_ordine = new int[3];
