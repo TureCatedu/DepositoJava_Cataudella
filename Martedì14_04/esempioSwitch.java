@@ -5,7 +5,7 @@ public class esempioSwitch {
         int day = 3;
         switch(day)
         {
-            case 1:                 // i casi ammettono solo numeri
+            case 1:                
                 System.out.println("Lunedì");
                 break;              // permette di evitare la verifica degli altri casi una volta entrati nel medesimo
             case 2:
