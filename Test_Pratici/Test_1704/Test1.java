@@ -194,7 +194,7 @@ public class Test1 {
     }
 
     static void visualizzaCronologia() {
-        //la cronologia è visibile sollo se l'utente è loggato
+        //la cronologia è visibile solo se l'utente è loggato
         if (utenteLoggato == null) {
             System.out.println("Accesso negato. Effettua il login.");
             return;
