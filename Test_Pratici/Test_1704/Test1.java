@@ -52,6 +52,7 @@ public class Test1 {
                     break;
                 case 5:
                     utenteLoggato = null;
+                    //vengono eliminati tutti i dati (scelta progettuale mia, non obbligatoria)
                     operazioniEffettuate.clear();
                     risultatiOperazioni.clear();
                     valoriInseriti.clear();
